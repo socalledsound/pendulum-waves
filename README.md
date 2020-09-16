@@ -1,6 +1,6 @@
-# testing5678
+#  pendulum waves
 
-code I got from someone!  will put his name here later
+fork from https://github.com/franspaco so I could put up a demo page
 
 see the demo at 
 https://socalledsound.github.io/testing5678/
